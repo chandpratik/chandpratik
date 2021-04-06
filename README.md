@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratik Chand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Maharashtra, India</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 📝 I regularly write articles on [https://chandpratyk.hashnode.dev/](https://chandpratyk.hashnode.dev/)
 
-- 💬 Ask me about **React ,JavaScript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **chandpratikal1@gmail.com**
 
