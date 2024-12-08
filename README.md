@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **TypeScript**
-
-- 📝 I regularly write articles on [https://chandpratyk.hashnode.dev/](https://chandpratyk.hashnode.dev/)
-
+- 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **chandpratikal1@gmail.com**
